@@ -5,9 +5,9 @@ Data Scientist (beginner)
 ---
 ### My projects:
 | Repository | Description| Tools |
-|:-----------|:----------------|:------------|
+|:-----------|:-----------------------------|:------------|
 |  [predicting_cardiovascular_disease_risk](https://github.com/89artur/predicting_cardiovascular_disease_risk.git)<br> RU <br> educational pet project  |  <div style="width: 500px; word-wrap: break-word;">разработал модель для предсказания риска сердечного приступа используя данные пациентов, такие как возраст, привычки, состояние здоровья и результаты анализа крови   | EDA: missingno, scipy, phik(plot_correlation_matrix), matplotlib, seaborn;<br> ML:Pipeline, RandomizedSearchCV, StratifiedKFold, XGBClassifier, recall_score,precision_score,accuracy_score,confusion_matrix |
-|  [ML_supervised_learning](https://img.shields.io/badge/REPO-GitHub-blue?style=for-the-badge&logo=github)<br> RU <br> educational pet project     | <div style="width: 500px; word-wrap: break-word;">построил модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца    | EDA: scipy, phik (plot_correlation_matrix), matplotlib, seaborn;<br> ML: Pipeline, ColumnTransformer, RandomizedSearchCV (SimpleImputer, LabelEncoder, OneHotEncoder, OrdinalEncoder, StandardScaler, MinMaxScaler), LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, roc_auc_score, SHAP)  |
+|  [ML_supervised_learning](https://img.shields.io/badge/REPO-GitHub-blue?style=for-the-badge&logo=github)<br> RU <br> educational pet project     | <div style="width: 500px; word-wrap: break-word;">построил модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца    | EDA: scipy, phik (plot_correlation_matrix), matplotlib, seaborn;<br> ML: Pipeline, ColumnTransformer, RandomizedSearchCV (SimpleImputer, LabelEncoder, OneHotEncoder, OrdinalEncoder, StandardScaler, MinMaxScaler), LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, roc_auc_score, SHAP  |
 
 
 ---
@@ -23,5 +23,5 @@ Data Scientist (beginner)
 |**DevOps:**|![GitHub](https://img.shields.io/badge/-GitHub-697e91) | beginner  | Using Projects, Issues, Labels    |  
 |**Tools:** |![Git](https://img.shields.io/badge/-Git-697e91) ![VS Code](https://img.shields.io/badge/-VS_Code-697e91) ![Bash](https://img.shields.io/badge/-Bash-697e91) ![PowerShell](https://img.shields.io/badge/-PowerShell-697e91) | beginner  | Clone, commit, push/pull, .gitignore, git branch, git checkout              | 
 ---
-### Education:
+### 🎓 Education:
 YandexPracricum 14/10/2025 - 19/01/2026
