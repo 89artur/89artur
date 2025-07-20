@@ -1,4 +1,4 @@
-[![Header](https://github.com/89artur/89artur/blob/main/assets/moscow.jpg?raw=true)](linkedin.com/in/artur-shakhmaev-344a47a6)
+[![Header](https://github.com/89artur/89artur/blob/main/assets/moscow.jpg?raw=true)](https://www.linkedin.com/in/89artur-shakhmaev/)
 
 ##### About me:
 Data Scientist (beginner) 
@@ -16,7 +16,7 @@ Data Scientist (beginner)
 |:-----------|:---------|:------------|:------------|
 |**Programming:** |![Python](https://img.shields.io/badge/-Python-697e91)          | beginner  | <div style="width: 300px; word-wrap: break-word;">Basic syntax, working with files (Reading/writing), OOP (basics)              |
 |**Data Tools:** |![Pandas](https://img.shields.io/badge/-Pandas-697e91) ![NumPy](https://img.shields.io/badge/-NumPy-697e91) ![SQL](https://img.shields.io/badge/-SQL-697e91) ![Spark](https://img.shields.io/badge/-Spark-697e91)|beginner  |Data analysis (EDA), Verification hypotheses using statistical tests             |
-|**ML** |![scikit-learn](https://img.shields.io/badge/-scikit_learn-697e91)|beginner   |<div style="width: 200px; word-wrap: break-word;">Machine learning (supervised learning (classification, regression), feature engineering, hyperparameter optimization, predictive modeling                 |
+|**ML** |![scikit-learn](https://img.shields.io/badge/-scikit_learn-697e91)|beginner   |<div style="width: 200px; word-wrap: break-word;">Machine learning supervised learning (classification, regression), feature engineering, hyperparameter optimization, predictive modeling                 |
 |**Visualization**:| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-697e91) ![Seaborn](https://img.shields.io/badge/-Seaborn-697e91) ![Plotly](https://img.shields.io/badge/-Plotly-697e91) | beginner  | Visualization, preprocessing, SHAP, Feature Importance                |
 |**API Development**:|![FastAPI](https://img.shields.io/badge/-FastAPI-697e91)  | beginner  |Script development (interface) for data processing and prediction on a test sample               |
 |**DevOps:**|![GitHub](https://img.shields.io/badge/-GitHub-697e91) | beginner  | Using Projects, Issues, Labels    |  
