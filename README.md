@@ -4,10 +4,10 @@
 Data Scientist (beginner) 
 ---
 ### My projects:
-| Repository | Description| Tools | Comments |
-|:-----------|:---------|:------------|------------:|
-|  [predicting_cardiovascular_disease_risk](https://github.com/89artur/predicting_cardiovascular_disease_risk.git)<br> RU <br> educational pet project  |  <div style="width: 500px; word-wrap: break-word;">разработал модель для предсказания риска сердечного приступа используя данные пациентов, такие как возраст, привычки, состояние здоровья и результаты анализа крови   | EDA: missingno, scipy, phik(plot_correlation_matrix), matplotlib, seaborn;<br> ML:Pipeline, RandomizedSearchCV, StratifiedKFold, XGBClassifier, recall_score,precision_score,accuracy_score,confusion_matrix |учебный проект      |
-|  [ML_supervised_learning](https://img.shields.io/badge/REPO-GitHub-blue?style=for-the-badge&logo=github)<br> RU <br> educational pet project     | <div style="width: 500px; word-wrap: break-word;">построил модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца    | EDA: scipy, phik (plot_correlation_matrix), matplotlib, seaborn;<br> ML: Pipeline, ColumnTransformer, RandomizedSearchCV (SimpleImputer, LabelEncoder, OneHotEncoder, OrdinalEncoder, StandardScaler, MinMaxScaler), LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, roc_auc_score, SHAP)  |учебный проект       |учебный проект      |
+| Repository | Description| Tools |
+|:-----------|:----------------|:------------|
+|  [predicting_cardiovascular_disease_risk](https://github.com/89artur/predicting_cardiovascular_disease_risk.git)<br> RU <br> educational pet project  |  <div style="width: 500px; word-wrap: break-word;">разработал модель для предсказания риска сердечного приступа используя данные пациентов, такие как возраст, привычки, состояние здоровья и результаты анализа крови   | EDA: missingno, scipy, phik(plot_correlation_matrix), matplotlib, seaborn;<br> ML:Pipeline, RandomizedSearchCV, StratifiedKFold, XGBClassifier, recall_score,precision_score,accuracy_score,confusion_matrix |
+|  [ML_supervised_learning](https://img.shields.io/badge/REPO-GitHub-blue?style=for-the-badge&logo=github)<br> RU <br> educational pet project     | <div style="width: 500px; word-wrap: break-word;">построил модель, которая предскажет вероятность снижения покупательской активности клиента в следующие три месяца    | EDA: scipy, phik (plot_correlation_matrix), matplotlib, seaborn;<br> ML: Pipeline, ColumnTransformer, RandomizedSearchCV (SimpleImputer, LabelEncoder, OneHotEncoder, OrdinalEncoder, StandardScaler, MinMaxScaler), LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, roc_auc_score, SHAP)  |
 
 
 ---
