@@ -23,4 +23,4 @@ Data Scientist (beginner)
 |**Tools:** |![Git](https://img.shields.io/badge/-Git-697e91) ![VS Code](https://img.shields.io/badge/-VS_Code-697e91) ![Bash](https://img.shields.io/badge/-Bash-697e91) ![PowerShell](https://img.shields.io/badge/-PowerShell-697e91) | beginner  | Clone, commit, push/pull, .gitignore, git branch, git checkout              | 
 ---
 ### 🎓 Education:
-YandexPracricum 14/10/2025 - 19/01/2026
+YandexPracricum 14/10/2024 - 19/01/2026
